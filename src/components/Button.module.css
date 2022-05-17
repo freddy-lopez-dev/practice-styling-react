@@ -1,0 +1,26 @@
+.btn {
+  background-color: wheat;
+  color: red;
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+.btn2 {
+  background-color: azure;
+  color: rebeccapurple;
+  font-size: 2rem;
+}
+
+.another-class {
+  color: green;
+}
+
+/* SASS sample
+.card {
+  h2 {
+    font-size: 2rem;
+  }
+  h3 {
+    color: aliceblue;
+  }
+} */
